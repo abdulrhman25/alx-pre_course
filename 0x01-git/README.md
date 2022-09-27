@@ -4,3 +4,4 @@ git up to date
 
 
 add .
+git status
